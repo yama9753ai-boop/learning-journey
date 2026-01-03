@@ -25,7 +25,7 @@
 -
 
 ## 📖 読んだ論文
-- [Bitcoin: A Peer-to-Peer Electronic Cash System](papers/bitcoin-abstract.md)
+- Bitcoin: [A Peer-to-Peer Electronic Cash System](papers/bitcoin-abstract.md)
 
 ## 💻 プログラミング
 - Progate: HTML/CSS, JavaScript, Python 完了
