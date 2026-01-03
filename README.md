@@ -28,7 +28,7 @@
 - Bitcoin: [A Peer-to-Peer Electronic Cash System](papers/bitcoin-abstract.md)
 
 ## 💻 プログラミング
-- Progate: HTML/CSS, JavaScript, Python 完了(programming)
+- Progate: [HTML/CSS, JavaScript, Python 完了](programming/progate-progress.md)
 - 
 
 ## 📚 学習した教材
