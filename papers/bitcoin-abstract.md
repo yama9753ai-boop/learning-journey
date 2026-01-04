@@ -1,7 +1,7 @@
 # Bitcoin: A Peer-to-Peer Electronic Cash System
 
 ## 読んだ日
-2024年10月11日
+2026年1月2日
 
 ## 読んだ範囲
 Abstract
