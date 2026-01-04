@@ -38,9 +38,10 @@
 - 関正生のTherulus英語長文1
 - ビック・ファット・キャットの世界一簡単な英語の本
 - 図解まるわかりコンピュータのしくみ
-- [いちばんやさしいITパスポート](book/cs/it-passport)
 - IELTSブリティッシュ・カウンシル公認問題集
 - IELTSスピーキング徹底攻略
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー ↑ ここまでのはGithubをやってませんでした。
+- [いちばんやさしいITパスポート](book/cs/it-passport)
 
 ## 🌐 SNS
 - TikTok: [@zeroglobal0](https://tiktok.com/@zeroglobal0)
