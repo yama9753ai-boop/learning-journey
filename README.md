@@ -50,6 +50,7 @@
 - [いちばんやさしいITパスポート](book/cs/it-passport)
 
 ## 🌐 SNS
+- X (Twitter): [@Aiki07432](https://twitter.com/Aiki07432)
 - TikTok: [@zeroglobal0](https://tiktok.com/@zeroglobal0)
 
 ---
