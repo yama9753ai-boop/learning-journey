@@ -17,7 +17,7 @@
 - コンピュータサイエンスの基礎
 - サーバーセキュリティ
 - 学術論文の読解
-- 英語（TOEFL/IELTS準備）
+- 英語（IELTS準備）
 
 ## 📚 取得済み試験
 - 英検準2級
@@ -34,7 +34,7 @@
 - Bitcoin: [A Peer-to-Peer Electronic Cash System](papers/bitcoin-abstract.md)
 
 ## 💻 プログラミング
-- Progate: [HTML/CSS, JavaScript, Python 完了](programming/progate-progress.md)
+- Progate: [HTML/CSS, JavaScript, Python ](programming/progate-progress.md)
 - 
 
 ## 📚 学習した教材
@@ -55,4 +55,4 @@
 
 ---
 
-**Last Updated**: 2024年10月
+**Last Updated**: 2026年1月
